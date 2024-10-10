@@ -5,4 +5,4 @@ Keeping track of LLM performances on various Biomedical/Clinical NLP tasks and d
 
 | Model | BC2GM | BC5CDR-chem | NCBI-disease | jnlpba | BC5CDR-disease |
 |------------|-------|--------------|---------------|--------|-----------------|
-| [distilbert-FT]([URL](https://huggingface.co/kbulutozler/distilbert-base-uncased-FT-ner-BC2GM)) | 0.76/0.79/0.77 |              |               |        |                 |
+| [distilbert-FT](https://huggingface.co/kbulutozler/distilbert-base-uncased-FT-ner-BC2GM) | 0.76/0.79/0.77 |              |               |        |                 |
